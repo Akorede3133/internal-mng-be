@@ -22,3 +22,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+<!-- name: "001",
+    maxCapacity: 2,
+    regularPrice: 250,
+    discount: 0,
+    image: imageUrl + "cabin-001.jpg",
+    description: -->

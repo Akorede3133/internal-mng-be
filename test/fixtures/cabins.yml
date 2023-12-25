@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  max_capacity: 1
+  regular_price: 1
+  discount: 1
+  image: MyString
+  description: MyText
+
+two:
+  name: MyString
+  max_capacity: 1
+  regular_price: 1
+  discount: 1
+  image: MyString
+  description: MyText
